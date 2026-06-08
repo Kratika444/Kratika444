@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋, I'm Kratika Nigam
+# Hi there 👋
 
-🎓 B.Tech CSE Student  
-💻 Interested in Java, and Software Development  
-🌱 Currently learning DSA, Java, Git & GitHub  
-🚀 Working on java and college projects  
-📫 Reach me: kratikanigam155@gmail.com
+🎓 I'm Kratika Nigam , a B.Tech CSE Student.  
+💻 Interested in Java, and Software Development.  
+🌱 Currently learning DSA, Java, Git & GitHub.  
+🚀 Working on java and college projects.  
+📫 Reach me: kratikanigam155@gmail.com.
 
 ## 🔧 Technologies & Tools
 - Java
